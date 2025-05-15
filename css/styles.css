@@ -119,6 +119,23 @@
   height: 40px;
 }
 
+.contacto-linea {
+  text-align: left;
+  margin-top: 1rem;
+}
+
+.etiqueta {
+  font-size: 1.1rem;
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.telefono {
+  font-size: 2rem;
+  color: #ffffff; /* azul cielo de tu marca */
+  font-weight: bold;
+}
+
 
 /* Fondo del Header */
 .header-custom {
